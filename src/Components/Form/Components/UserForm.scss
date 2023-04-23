@@ -1,0 +1,49 @@
+.form-title{
+    color: white;
+    text-transform: uppercase;
+}
+.form-wrapper{
+    position: absolute;
+    top: 5%;
+    background-color: black;
+    border: 0.5px solid rgba(255,255,255,0.3);
+    box-shadow: 0 50px 100px rgba(0,0,0,0.25);
+    backdrop-filter: blur(5px);
+    border-radius: 6px;
+    padding: 20px;
+    width: 320px;
+   text-align: center;
+    
+}
+.buy-now{
+    padding: 15px 0;
+    width: 100px;
+    border: none;
+    border-radius: 12px;
+    align-self: flex-start;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+}
+.error-message{
+    color: red;
+    font-weight: bold;
+    margin-top: 0;
+}
+.submit-btn{
+    
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 140px;
+    height: 35px;
+    color: #fafafa;
+    background: #007ab5;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    margin: 6px;
+    cursor: pointer;
+    letter-spacing: 3px;
+}

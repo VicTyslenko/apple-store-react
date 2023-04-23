@@ -1,0 +1,37 @@
+.grey-svg {
+    fill: #cbc9c9;
+    cursor: pointer;
+}
+
+.blue-svg {
+    fill: #000bbb;
+    cursor: pointer;
+}
+
+.svg-favourite-white {
+    fill: #cbc9c9;
+}
+
+.svg-favourite-blue {
+    fill: #000bbb;
+}
+
+.cart-empty{
+    color: #000bbb;
+}
+
+.card-wrapper {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: darkorange;
+    margin-top: 20px;
+    position: relative;
+}
+
+.flex-wrapp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+

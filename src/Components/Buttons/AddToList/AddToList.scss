@@ -1,0 +1,21 @@
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+.add-btn{
+    padding: 15px 0;
+    width: 100px;
+    border: none;
+    border-radius: 12px;
+    align-self: flex-start;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    align-self: center;
+}
+.price-wrapp{
+    display: flex;
+    justify-content: space-between;
+}

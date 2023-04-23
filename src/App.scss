@@ -1,0 +1,13 @@
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.products-wrapper {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 36px;
+    margin-top: 140px;
+}

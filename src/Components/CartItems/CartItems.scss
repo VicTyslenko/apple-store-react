@@ -1,0 +1,24 @@
+.cart-empty {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  letter-spacing: 5px;
+}
+.buy-now {
+  padding: 15px 0;
+  width: 100px;
+  border: none;
+  border-radius: 12px;
+  align-self: flex-start;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+  align-self: center;
+}
+.desc {
+  color: blue;
+}
+

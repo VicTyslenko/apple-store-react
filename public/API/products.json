@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Iphone",
+        "price": "500",
+        "art": "234234",
+        "color": "blue",
+        "img": "API/img/iphone12.png",
+        "desc": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system, and in 2021 when the iPhone 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera."
+    },
+    {
+        "id": "2",
+        "name": "Ipod",
+        "price": "400",
+        "art": "534345",
+        "color": "green",
+        "img": "API/img/ipod.jpg",
+        "desc": "An iPod is a portable MP3 and media player developed by Apple and available for the Mac and PC that first began being sold on October 23, 2001. The iPod is capable of holding up to 10,000 songs, is easy to use, and is very portable. All these features and its great look is why it's such a popular device."
+    },
+    {
+        "id": "3",
+        "name": "Ipad",
+        "price": "300",
+        "art": "234214",
+        "color": "white",
+        "img": "API/img/ipad.jpg",
+        "desc": "The iPad is a touchscreen tablet PC made by Apple . The original iPad debuted in 2010. Apple has three iPad product lines: iPad, iPad mini and iPad Pro. All models are available in silver, gray and gold. They run Apple's iOS mobile operating system and have Wi-Fi connectivity with optional 4G capabilities."
+    },
+    {
+        "id": "4",
+        "name": "Samsung",
+        "price": "200",
+        "art": "5345345",
+        "color": "black",
+        "img": "API/img/sams.jpg",
+        "desc": "Samsung Galaxy is Samsung Electronics' flagship line of Android smartphones and tablets. The original Samsung Galaxy smartphone debuted in 2009, and the line's first tablet, the Samsung Galaxy Tab, came out the following year."
+    },
+    {
+        "id": "5",
+        "name": "Xiaomi",
+        "price": "400",
+        "art": "124234",
+        "color": "yellow",
+        "img": "API/img/xioami.jpg",
+        "desc": "Xiaomi is a technology product and services company founded in early 2010, focusing mainly on smartphones and Internet of Things products and related internet services. An early adopter of online smartphone sales, Xiaomi uses Android as its operating system but has its own customized user interface called MIUI."
+    },
+    {
+        "id": "6",
+        "name": "Acer",
+        "price": "150",
+        "art": "64564",
+        "color": "purple",
+        "img": "API/img/acer.jpg",
+        "desc": "Acer NoteBook is a Windows 10 laptop with a 15.60-inch display. It is powered by a Core i3 processor and it comes with 12GB of RAM. The Acer NoteBook packs 128GB of SSD storage. Graphics are powered by Intel HD Graphics 620."
+    },
+    {
+        "id": "7",
+        "name": "Nomi",
+        "price": "300",
+        "art": "23423",
+        "color": "red",
+        "img": "API/img/images.jpg",
+        "desc": "Acer NoteBook is a Windows 10 laptop with a 15.60-inch display. It is powered by a Core i3 processor and it comes with 12GB of RAM. The Acer NoteBook packs 128GB of SSD storage. Graphics are powered by Intel HD Graphics 620."
+    },
+    {
+        "id": "8",
+        "name": "Oppo",
+        "price": "650",
+        "art": "6452",
+        "color": "grey",
+        "img": "API/img/oppo.jpg",
+        "desc": "As mentioned, Oppo is an established name in the audio devices market, selling wireless and true wireless headphones alongside its range of smartphones. To date, the company has also released one smartwatch, called the Oppo Watch, and we're likely to see more such devices in the future."
+    },
+    {
+        "id": "9",
+        "name": "Huawei",
+        "price": "450",
+        "art": "2342",
+        "color": "space-grey",
+        "img": "API/img/huawei.jpg",
+        "desc": "Huawei Technologies Co., Ltd is a Chinese multinational technology corporation headquartered in Shenzhen, Guangdong, China. It designs, develops, produces ."
+    },
+    {
+        "id": "10",
+        "name": "HP",
+        "price": "700",
+        "art": "87654",
+        "color": "super-grey",
+        "img": "API/img/hp.jpg",
+        "desc": "HP (Hewlett-Packard) is a multinational information technology (IT) company that sells hardware, software and related business services."
+    }
+]

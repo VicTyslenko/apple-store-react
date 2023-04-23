@@ -1,0 +1,15 @@
+.form-input{
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 0.5px solid rgba(255,255,255,0.3);
+    background: linear-gradient(180deg, rgba(100,106,150,0.4) 0%,rgba(182,186,214,0.25)100%);
+    border-radius: 10px;
+    outline: none;
+    width: 290px;
+   font-size: 15px; 
+}
+.form-input::placeholder{
+    color: white;
+    font-size: 15px;
+}

@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+    background-color:#000000c7;
+    border-radius: 10px;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.devices {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+sup {
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+
+.header-svg-wrapp {
+    display: flex;
+    align-items: center;
+}
+
+.svg-favourite {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.red-cart {
+    fill: #ff0000;
+}
+
+.white-cart {
+    fill: #cbc9c9;
+}
