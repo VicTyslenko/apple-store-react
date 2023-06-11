@@ -21,7 +21,7 @@ const Header = () => {
         <>
 
             <div className="header">
-                <Link to="/" style={{ textDecoration: 'none' }}> <h1 className='devices'>Devices list</h1></Link>
+                <Link to="/" style={{ textDecoration: 'none' }}> <h1 className='devices'>Apple store</h1></Link>
 
                 <div className='header-svg-wrapp'>
                     <sup className='counter'>{favCount.length}</sup>

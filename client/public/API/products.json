@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "MacBook Air M1",
-    "price": "500",
+    "APIrice": "500",
     "art": "234234",
     "color": "blue",
     "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-card-40-macbook-air-202110?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1664576115052",
